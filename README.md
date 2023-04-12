@@ -19,11 +19,10 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Forks][forks-shield]][https://github.com/FreckledMe/rock_paper_scissors/forks]
+[![Stargazers][stars-shield]][https://github.com/FreckledMe/rock_paper_scissors/stargazers]
+[![Issues][issues-shield]][https://github.com/FreckledMe/rock_paper_scissors/issues]
+[![LinkedIn][linkedin-shield]][https://uz.linkedin.com/in/kamoliddin-jabbarov-599b56201]
 
 
 
