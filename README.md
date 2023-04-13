@@ -218,6 +218,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+![](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png = 200x100)
 
 [[https://www.python.org/static/community_logos/python-logo-master-v3-TM.png = 250x150]]
 
