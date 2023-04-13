@@ -108,7 +108,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Getting Started 
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -243,8 +243,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/kamoliddin-jabbarov-599b56201/
 [product-screenshot]: images/screenshot.png
 
-[Python]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Python-url]: https://nextjs.org/
+[Python]: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+[Python-url]: https://python.org/
 [Tensorflow]:  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [T-url]: https://www.tensorflow.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
