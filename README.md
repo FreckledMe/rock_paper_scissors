@@ -91,7 +91,7 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png=200x100)][Python-url]
+* [![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png=200x100)][Python-url]
 * [![Tensorflow][Tensorflow]][T-url]
 * [![Jupyter Notebook][Jupyter]][J-url]
 * [![Angular][Angular.io]][Angular-url]
