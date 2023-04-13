@@ -224,6 +224,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png = 200x100)
 
+[[https://www.python.org/static/community_logos/python-logo-master-v3-TM.png = 250x150]]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
