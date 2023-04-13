@@ -218,9 +218,8 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png = 200x100)
 
-[[https://www.python.org/static/community_logos/python-logo-master-v3-TM.png = 250x150]]
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -244,5 +243,5 @@ Use this space to list resources you find helpful and would like to give credit 
 [T-url]: https://www.tensorflow.org/
 [Jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [J-url]: https://jupyter.org/
-[Streamlit]: https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png
+[Streamlit]: <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="200" height="100" />
 [S-url]: https://streamlit.io/
