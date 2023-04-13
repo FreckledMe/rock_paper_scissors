@@ -241,7 +241,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/kamoliddin-jabbarov-599b56201/
 [product-screenshot]: images/screenshot.png
 
-[Python]: https://staging.python.org/static/community_logos/python-powered-w-200x80.png
+[Python]: https://staging.python.org/static/community_logos/python-powered-w-70x28.png
 [Python-url]: https://python.org/
 [Tensorflow]:  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [T-url]: https://www.tensorflow.org/
