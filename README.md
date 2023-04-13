@@ -222,7 +222,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png=200x100)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png = 200x100)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
