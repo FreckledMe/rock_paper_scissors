@@ -79,6 +79,10 @@ Rock Paper Scissors contains images from various hands, from different races, ag
 
 Note that all of these pictures use a plain white background. Each image is 300×300 pixels in 24-bit color. Examples Here are a few examples showing some of the poses and the diversity of hands used. 
 
+License
+
+The dataset is licensed as a CC By 2.0, free for you to share and adapt for all uses, commercial or non-commercial. Please attribute and give appropriate credit to Laurence Moroney (lmoroney@gmail.com / laurencemoroney.com), and place no additional restrictions on your users as outlined here.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -236,7 +240,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/kamoliddin-jabbarov-599b56201/
 [product-screenshot]: images/screenshot.png
 
-[Python]: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png
+[Python]: https://www.python.org/static/community_logos/python-logo-master-v3-TM.png=200x100
 [Python-url]: https://python.org/
 [Tensorflow]:  https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
 [T-url]: https://www.tensorflow.org/
