@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FreckledMe/rock_paper_scissors">
-    <img src="https://static.vecteezy.com/system/resources/previews/000/691/497/original/rock-paper-scissors-neon-icons-vector.jpg" alt="Logo" width="500" height="317">
+    <img src="https://static.vecteezy.com/system/resources/previews/000/691/497/original/rock-paper-scissors-neon-icons-vector.jpg" alt="Logo" width="800" height="300">
   </a>
 
   <h3 align="center">Rock Paper Scissors</h3>
