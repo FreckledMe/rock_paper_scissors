@@ -95,9 +95,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Tensorflow][Tensorflow]][T-url]
 * [![Jupyter Notebook][Jupyter]][J-url]
 <!-- * [![Streamlit](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png)][S-url] -->
-
+* <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="170" heigth="90">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="200" heigth="100">
+ 
 
 
 <!-- GETTING STARTED -->
