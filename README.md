@@ -73,18 +73,27 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 ### Installation
 
 
-1. Clone the repo
+1. Clone the repo and extract zip file
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/FreckledMe/rock_paper_scissors.git
+   ```
+2. Open a terminal via this extracted folder location
+   ```sh
+   pip install virtualenv
    ```
 3. Create environment for project
    ```sh
-   npm install
+   python<version> -m venv <virtual-environment-name>
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+4. Activate environment
+   ```sh
+   environment_path\<virtual-environment-name>\Scripts\activate
    ```
+5. Install required libraries
+   ```sh
+   (<virtual-environment-name>) pip install -r requirements.txt
+   ```
+6. Run [rock_paper_scissors.ipynb ](https://github.com/FreckledMe/rock_paper_scissors/blob/main/rock_paper_scissors.ipynb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
