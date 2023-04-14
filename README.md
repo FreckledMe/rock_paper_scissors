@@ -125,6 +125,8 @@ Example result
 
 <a href="https://justfrozenak@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="120" heigth="30"></a>
 
+<a href="mailto:user@example.com">justfrozenak@gmail.com</a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
