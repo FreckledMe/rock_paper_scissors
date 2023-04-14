@@ -95,7 +95,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Tensorflow][Tensorflow]][T-url]
 * [![Jupyter Notebook][Jupyter]][J-url]
 <!-- * [![Streamlit](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png)][S-url] -->
-* <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" width="100" heigth="50">
+* <a href="https://streamlit.io/"> <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-lighttext.png" width="100" heigth="50"></a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
 
@@ -243,4 +243,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [T-url]: https://www.tensorflow.org/
 [Jupyter]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 [J-url]: https://jupyter.org/
-[S-url]: https://streamlit.io/
