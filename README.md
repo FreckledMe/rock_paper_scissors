@@ -123,6 +123,8 @@ Example result
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+<a href="justfrozenak@gmail.com"> <img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_256px.png" width="100" heigth="50"></a>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
