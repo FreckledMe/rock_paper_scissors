@@ -8,7 +8,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/FreckledMe/rock_paper_scissors">
-    <img src="images/daco.png" alt="Logo" width="860" height="359">
+    <img src="images/daco.png" alt="Logo" width="700" height="250">
   </a>
 
 
