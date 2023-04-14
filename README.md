@@ -32,11 +32,9 @@
     </li>
     <li>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -62,8 +60,6 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [![Python][Python]][Python-url]
 * [![Tensorflow][Tensorflow]][T-url]
 * [![Jupyter Notebook][Jupyter]][J-url]
@@ -72,17 +68,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
  
 
 
-<!-- GETTING STARTED -->
-## Getting Started 
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-
-* pip
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
@@ -117,7 +103,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kamoliddin-jabbarov-599b56201/
 [product-screenshot]: images/screenshot.png
