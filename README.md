@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
@@ -111,18 +110,18 @@ Example result
 
    View loss and accuracy in per epoch via [Tensorboard](https://github.com/tensorflow/tensorboard)
    ```sh
-   tensorboard --logdir logs
+   (virtual-environment-name)/tensorboard --logdir logs
    ```
 Example result
 
 <img src="screenshot/tensorboard.png">
 
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Contact
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
