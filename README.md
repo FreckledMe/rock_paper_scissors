@@ -42,7 +42,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 Rock Paper Scissors contains images from various hands, from different races, ages, and genders, posed into Rock / Paper or Scissors and labeled as such. You can download the training set here and the test set here. I created these images using CGI techniques as an experiment in determining if a model trained on a CGI-based dataset could classify real images. I also generated a few pictures that you can use for predictions. You can find them here.
 
@@ -51,6 +51,8 @@ Note that all of these pictures use a plain white background. Each image is 300Ã
 License
 
 The dataset is licensed as a CC By 2.0, free for you to share and adapt for all uses, commercial or non-commercial. Please attribute and give appropriate credit to Laurence Moroney (lmoroney@gmail.com / laurencemoroney.com), and place no additional restrictions on your users as outlined here.
+
+[![Product Name Screen Shot][product-screenshot]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,14 +72,12 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
-3. Install NPM packages
+3. Create environment for project
    ```sh
    npm install
    ```
