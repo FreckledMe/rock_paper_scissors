@@ -11,10 +11,9 @@
     <img src="https://www.vhv.rs/dpng/d/535-5350998_rock-paper-scissors-png-rock-paper-scissors-images.png" alt="Logo" width="860" height="359">
   </a>
 
-  <h3 align="center">Rock Paper Scissors</h3>
 
   <p align="center">
-    Tensorflow datasets
+    From catalog of tensorflow datasets
   </p>
 </div>
 
