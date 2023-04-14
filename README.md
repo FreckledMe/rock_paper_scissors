@@ -91,7 +91,7 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
    ```
 5. Install required libraries
    ```sh
-   (<virtual-environment-name>) pip install -r requirements.txt
+   (virtual-environment-name) pip install -r requirements.txt
    ```
 6. Run [rock_paper_scissors.ipynb ](https://github.com/FreckledMe/rock_paper_scissors/blob/main/rock_paper_scissors.ipynb)
 
@@ -101,6 +101,24 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+   Use [Streamlit](https://github.com/streamlit/streamlit)
+   ```sh 
+   (virtual-environment-name)/streamlit run stream.py
+   ```
+Example result
+
+<img src="screenshot/rps_deploy.png">
+
+   View loss and accuracy in per epoch via [Tensorboard](https://github.com/tensorflow/tensorboard)
+   ```sh
+   tensorboard --logdir logs
+   ```
+Example result
+
+<img src="screenshot/tensorboard.png">
+
+
+
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
