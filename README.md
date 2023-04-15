@@ -100,7 +100,10 @@ The dataset is licensed as a CC By 2.0, free for you to share and adapt for all 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-   Use [Streamlit](https://github.com/streamlit/streamlit)
+   Use [Streamlit](https://github.com/streamlit/streamlit) 
+
+   If you don't want to train the model, you can use my pre-trained [model](https://drive.google.com/file/d/1j8gmrk9MvvbP2mdhv2dH_3D0FPt-yxga/view?usp=share_link) 
+   
    ```sh 
    (virtual-environment-name)/streamlit run stream.py
    ```
